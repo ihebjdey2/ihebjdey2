@@ -1,51 +1,52 @@
 <div align="center">
 
-# Hi 👋 I'm Iheb Jdey
+# Hi there, I'm Iheb Jdey 👋
 
 ### Full-Stack Engineer • Flutter Developer • AI Enthusiast
 
-Building scalable web, mobile and AI-powered applications.
+Building scalable web & mobile applications powered by modern technologies and AI.
 
 <p>
-<a href="mailto:ihebjdey2@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/iheb-jdey">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ihebjdey2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/ihebjdey2">
+    <img src="https://komarev.com/ghpvc/?username=ihebjdey2&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/ihebjdey2?tab=followers">
+    <img src="https://img.shields.io/github/followers/ihebjdey2?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/ihebjdey2?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ihebjdey2?style=for-the-badge" />
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ihebjdey2&style=for-the-badge&color=0e75b6"/>
+<p>
+  <a href="https://www.linkedin.com/in/iheb-jdey">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ihebjdey2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
 ```yaml
 Name: Iheb Jdey
-
-Location:
-  Tunisia 🇹🇳
+Location: Tunisia 🇹🇳
 
 Education:
   Computer Engineering Graduate
 
 Current Focus:
-  • Flutter
-  • React
-  • Next.js
-  • NestJS
-  • Spring Boot
+  • Flutter Development
+  • React & Next.js
+  • NestJS & Spring Boot
   • Artificial Intelligence
   • LLM Applications
+  • System Design
 
 Currently Building:
   🇹🇳 Tungo
@@ -56,104 +57,135 @@ Currently Building:
 
 # 🚀 Featured Project
 
-## 🇹🇳 Tungo
+## 🇹🇳 Tungo — National Smart Transportation Platform
 
-A national-scale digital transportation platform connecting passengers, drivers and transport companies.
+A complete digital ecosystem for intercity transportation.
 
-### Mobile Applications
+### Mobile
+- Customer Application
+- Driver Application
 
-- Customer App
-- Driver App
-
-### Web Platforms
-
-- Station Dashboard
-- Supervisor Dashboard
-- Super Admin Dashboard
+### Web Dashboards
+- Station Administrator
+- Supervisor
+- Super Administrator
 
 ### Features
 
-- Online Booking
+- Online Reservation
 - Live Tracking
 - Parcel Delivery
 - Push Notifications
-- Analytics Dashboard
-- Vehicle Management
-- Authentication
-- Online Payments
+- Analytics
+- Payments
+- Fleet Management
+- Role-Based Permissions
 
 ---
 
 # 💻 Tech Stack
 
-## Mobile
+### Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
-## Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-## Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,java,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,java,express" />
 </p>
 
-## Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-## AI
+### AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
+
+<p>
 
 - OpenAI API
 - LangChain
-- AI Agents
 - RAG
+- AI Agents
 - Prompt Engineering
 
-## DevOps
+</p>
+
+### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,github,git,linux,postman,vscode" />
 </p>
 
 ---
 
-# 🏆 Highlights
+# 🏆 Experience
 
-- 🚀 Developed **Tungo**, a complete smart transportation platform
-- 📱 Built production-ready Flutter applications
-- 🌐 Developed scalable React & Next.js dashboards
-- ⚙️ Designed REST APIs with NestJS & Spring Boot
-- 🗄️ Optimized relational and NoSQL databases
-- 🤖 Exploring AI Agents & LLM-powered applications
+✔️ Full-Stack Web Development
+
+✔️ Cross-Platform Mobile Development
+
+✔️ REST APIs
+
+✔️ Authentication & Authorization
+
+✔️ Microservices
+
+✔️ WebSockets
+
+✔️ Clean Architecture
+
+✔️ MVC / MVVM
+
+✔️ Database Design
+
+✔️ Deployment
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ihebjdey2&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihebjdey2&theme=tokyonight"/>
+
+<br><br>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihebjdey2&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ihebjdey2&theme=tokyonight"/>
+
+<br><br>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ihebjdey2&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihebjdey2&theme=tokyonight&utcOffset=1"/>
+
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=ihebjdey2&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
@@ -163,8 +195,8 @@ A national-scale digital transportation platform connecting passengers, drivers 
 - LangGraph
 - MCP
 - Kubernetes
-- Cloud Native Development
 - Distributed Systems
+- Cloud Architecture
 
 ---
 
@@ -172,29 +204,25 @@ A national-scale digital transportation platform connecting passengers, drivers 
 
 - Build impactful AI products
 - Contribute to Open Source
-- Master Cloud Architecture
+- Master Cloud Native Development
+- Learn Kubernetes
 - Publish technical articles
-- Join an innovative engineering team
 
 ---
 
-# 📫 Let's Connect
+# 📫 Contact
 
-<p align="center">
+📧 **Email**
 
-<a href="mailto:ihebjdey2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**ihebjdey2@gmail.com**
 
-<a href="https://www.linkedin.com/in/iheb-jdey">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+💼 **LinkedIn**
 
-<a href="https://github.com/ihebjdey2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+https://linkedin.com/in/iheb-jdey
 
-</p>
+🌍 **Portfolio**
+
+Coming Soon...
 
 ---
 
@@ -202,6 +230,6 @@ A national-scale digital transportation platform connecting passengers, drivers 
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Building software that solves real-world problems."*
+*"Building software that creates real impact."*
 
 </div>
