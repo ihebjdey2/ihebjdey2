@@ -113,8 +113,9 @@ currently:  Building Tungo — Tunisia's national transport platform
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ihebjdey2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebjdey2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ihebjdey2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebjdey2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
