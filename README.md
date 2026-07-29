@@ -231,7 +231,5 @@ Coming Soon...
 ### ⭐ Thanks for visiting my profile!
 
 *"Building software that creates real impact."*
-anuraghazra/github-readme-stats
-DenverCoder1/github-readme-streak-stats
 
 </div>
