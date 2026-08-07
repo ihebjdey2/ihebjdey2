@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Iheb Jdey 👋
+# Hi there, I'm Iheb Jdey 
 
 ### Full-Stack Engineer • Flutter Developer • AI Enthusiast
 
@@ -31,7 +31,7 @@ Building scalable web & mobile applications powered by modern technologies and A
 
 ---
 
-# 💫 About Me
+#  About Me
 
 ```yaml
 Name: Iheb Jdey
@@ -55,7 +55,7 @@ Currently Building:
 
 ---
 
-# 🚀 Featured Project
+#  Featured Project
 
 ## 🇹🇳 Tungo — National Smart Transportation Platform
 
@@ -83,7 +83,7 @@ A complete digital ecosystem for intercity transportation.
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Mobile
 
@@ -133,7 +133,7 @@ A complete digital ecosystem for intercity transportation.
 
 ---
 
-# 🏆 Experience
+#  Experience
 
 ✔️ Full-Stack Web Development
 
@@ -157,7 +157,7 @@ A complete digital ecosystem for intercity transportation.
 
 ---
 
-# 📈 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -179,7 +179,7 @@ A complete digital ecosystem for intercity transportation.
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -189,7 +189,7 @@ A complete digital ecosystem for intercity transportation.
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - AI Agents
 - LangGraph
@@ -200,7 +200,7 @@ A complete digital ecosystem for intercity transportation.
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
 - Build impactful AI products
 - Contribute to Open Source
@@ -210,7 +210,7 @@ A complete digital ecosystem for intercity transportation.
 
 ---
 
-# 📫 Contact
+#  Contact
 
 📧 **Email**
 
@@ -228,7 +228,6 @@ Coming Soon...
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
 
 *"Building software that creates real impact."*
 
