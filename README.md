@@ -28,7 +28,7 @@ I enjoy understanding how all parts of a product connect — from architecture a
 
 ### AgriDiagnose AI
 
-Plant-health decision-support platform combining machine learning with production-oriented software engineering.
+Plant-health decision-support platform combining applied machine learning with production-oriented software engineering.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="34" height="34" alt="Python" />
@@ -40,18 +40,28 @@ Plant-health decision-support platform combining machine learning with productio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="34" height="34" alt="PostgreSQL" />
 </p>
 
-- 73,563 audited images
-- 39 output classes across 14 crops
-- 95.44% internal test accuracy
-- 95.92% Macro-F1
-- MobileNetV2-based image classification
-- External evaluation for domain-shift analysis
-- Authentication and prediction history
-- REST API and dashboards
-- Database migrations
-- Automated tests and CI
-- English, French, and Arabic interfaces
-- Model integrity verification
+<table>
+  <tr>
+    <td align="center"><strong>73,563</strong><br />Audited Images</td>
+    <td align="center"><strong>39</strong><br />Output Classes</td>
+    <td align="center"><strong>14</strong><br />Crops</td>
+    <td align="center"><strong>95.44%</strong><br />Test Accuracy</td>
+    <td align="center"><strong>95.92%</strong><br />Macro-F1</td>
+  </tr>
+</table>
+
+Built around a frozen MobileNetV2 model and a full Flask application architecture.
+
+- Group-aware dataset split across training, validation, and internal test sets
+- External PlantDoc evaluation for real-world domain-shift analysis
+- Model artifact integrity verification
+- Authentication and user-scoped prediction history
+- REST API and analytical dashboards
+- PostgreSQL persistence and database migrations
+- Automated tests and GitHub Actions CI
+- English, French, and Arabic interfaces with RTL support
+
+> Internal test performance represents in-distribution evaluation. External PlantDoc evaluation revealed significant domain shift under real-world-style conditions.
 
 [View repository →](https://github.com/ihebjdey2/ai-plant-disease-detection)
 
@@ -71,16 +81,25 @@ Multi-platform transportation system designed to digitize intercity transportati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="34" height="34" alt="PostgreSQL" />
 </p>
 
-- Passenger mobile application
-- Driver mobile application
-- Administrative web dashboards
-- Authentication and authorization
-- Reservations
-- Routes and schedules
-- Stations and cities
-- Parcel management
-- REST APIs
-- Real-time functionality
+<table>
+  <tr>
+    <td align="center"><strong>2</strong><br />Mobile Apps</td>
+    <td align="center"><strong>3</strong><br />Dashboard Roles</td>
+    <td align="center"><strong>1</strong><br />Backend Platform</td>
+    <td align="center"><strong>Multi-platform</strong><br />Architecture</td>
+  </tr>
+</table>
+
+A transportation ecosystem connecting passengers, drivers, supervisors, stations, and platform administrators.
+
+- Passenger and driver mobile applications
+- Station, supervisor, and administration dashboards
+- Authentication and role-based authorization
+- Reservation management
+- Routes, schedules, stations, and cities
+- Parcel-management workflows
+- REST API architecture
+- Real-time application features
 
 [View repository →](https://github.com/ihebjdey2/Stage-PFE-Tungo-project)
 
@@ -88,7 +107,7 @@ Multi-platform transportation system designed to digitize intercity transportati
 
 ### CliniClic
 
-Clinic-management platform focused on business rules, role-based authorization, scheduling, and data protection.
+Multi-platform clinic-management system focused on business rules, scheduling, authorization, and data protection.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="34" height="34" alt="Symfony" />
@@ -100,16 +119,27 @@ Clinic-management platform focused on business rules, role-based authorization, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="34" height="34" alt="Bootstrap" />
 </p>
 
-- Administrator, doctor, receptionist, and patient roles
-- Appointment management
-- Doctor availability
+<table>
+  <tr>
+    <td align="center"><strong>4</strong><br />User Roles</td>
+    <td align="center"><strong>3</strong><br />Client Platforms</td>
+    <td align="center"><strong>Symfony 7.4</strong><br />Web Stack</td>
+    <td align="center"><strong>PHP 8.2+</strong><br />Runtime</td>
+  </tr>
+</table>
+
+The platform models real clinic workflows beyond traditional CRUD operations.
+
+- Administrator, doctor, receptionist, and patient workflows
+- Appointment and doctor-availability management
 - Scheduling conflict prevention
 - Consultations and prescriptions
-- Role-based access control
-- Ownership-aware authorization
-- Inventory and event workflows
+- Role-based and ownership-aware authorization
+- Medical inventory management
+- Event and participation workflows
+- Symfony Security and CSRF protection
+- Service-oriented business logic
 - Responsive user interface
-- Security-focused architecture
 
 [View repository →](https://github.com/ihebjdey2/PFA-3eme-ESPRIT-Projet-integration-web-mobile-desktop-PIDEV)
 
@@ -117,7 +147,7 @@ Clinic-management platform focused on business rules, role-based authorization, 
 
 ### GamiX
 
-Educational multiplayer 3D game combining networking, gameplay systems, and sustainability-focused activities.
+Educational multiplayer 3D game combining real-time networking, gameplay systems, and sustainability-focused activities.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="34" height="34" alt="Unity" />
@@ -127,15 +157,27 @@ Educational multiplayer 3D game combining networking, gameplay systems, and sust
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="34" height="34" alt="Node.js" />
 </p>
 
-- Multiplayer sessions
-- Player synchronization
-- Chat and voting
+<table>
+  <tr>
+    <td align="center"><strong>3</strong><br />System Components</td>
+    <td align="center"><strong>2</strong><br />Backend Services</td>
+    <td align="center"><strong>Unity 2022 LTS</strong><br />Game Client</td>
+    <td align="center"><strong>Netcode 1.12</strong><br />Multiplayer</td>
+  </tr>
+</table>
+
+The architecture combines a Unity multiplayer client with dedicated authentication and game backend services.
+
+- Multiplayer session creation and joining
+- Real-time player synchronization
+- In-game chat and voting
 - Sabotage mechanics
-- Educational mini-games
-- Task progression
-- Authentication backend
-- Dedicated game backend
-- Unity Netcode for GameObjects
+- Educational mini-games and sustainability tasks
+- Task progression and history
+- Dedicated authentication service
+- Dedicated game-management service
+- Netcode for GameObjects
+- Unity Transport networking
 
 [View repository →](https://github.com/ihebjdey2/PFA-4eme-ESPRIT-Projet-integration-GAMIX-)
 
@@ -251,6 +293,14 @@ Unity · Unreal Engine · Multiplayer Networking · OpenXR · VR · ML-Agents
 
 Spring Boot distributed system exploring independent services, service discovery, API Gateway, and containerized infrastructure.
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30" height="30" alt="Spring Boot" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30" height="30" alt="Angular" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" alt="Docker" />
+</p>
+
 [View repository →](https://github.com/ihebjdey2/Library-management-microservices)
 
 ---
@@ -267,7 +317,7 @@ Spring Boot project focused on software delivery automation and observability.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" alt="Docker" />
 </p>
 
-Build · Tests · SonarQube · Nexus · Docker · Prometheus · Grafana
+Build · Automated Tests · SonarQube · Nexus · Docker · Prometheus · Grafana
 
 [View repository →](https://github.com/ihebjdey2/StudentMangement_CI_CD)
 
@@ -384,3 +434,73 @@ Software Architecture → maintainable and scalable applications
 Distributed Systems   → independent services and communication
 Cloud Engineering     → deployment and cloud-native systems
 Interactive AI        → intelligent agents inside 3D environments
+```
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihebjdey2&theme=github_dark"
+  alt="GitHub Profile Details"
+/>
+
+<br /><br />
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ihebjdey2&theme=github_dark"
+  alt="GitHub Statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihebjdey2&theme=github_dark&utcOffset=1"
+  alt="GitHub Productive Time"
+/>
+
+<br /><br />
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihebjdey2&theme=github_dark"
+  alt="Repositories Per Language"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ihebjdey2&theme=github_dark"
+  alt="Most Used Commit Language"
+/>
+
+<br /><br />
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=ihebjdey2&theme=github-dark-blue&hide_border=true&background=00000000"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm open to software engineering opportunities and collaborations involving full-stack development, mobile engineering, backend systems, applied AI, DevOps, and interactive technologies.
+
+<div align="center">
+
+[Portfolio](https://ihebjdey.tn) ·
+[LinkedIn](https://www.linkedin.com/in/jdey-iheb) ·
+[GitHub](https://github.com/ihebjdey2) ·
+[Email](mailto:ihebjdey2@gmail.com)
+
+<br /><br />
+
+**Build useful software. Understand the system. Keep improving it.**
+
+</div>
