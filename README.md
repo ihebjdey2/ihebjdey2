@@ -4,7 +4,7 @@
 
 ### Software Engineer · Full-Stack · Mobile · Applied AI
 
-I build complete software products across web, mobile, backend systems, AI, and interactive experiences.
+I build software products across web, mobile, backend systems, AI, and interactive experiences.
 
 <br />
 
